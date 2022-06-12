@@ -1,0 +1,2 @@
+const SIMULATION_WIDTH: usize = 1080;
+const SIMULATION_HEIGHT: usize = 720;
